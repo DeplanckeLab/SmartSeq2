@@ -1,0 +1,29 @@
+[Header]
+IEMFileVersion,4
+Investigator Name,John Doe
+Experiment Name,NXT0001
+Date,1/1/2017
+Workflow,GenerateFASTQ
+
+[Reads]
+75
+75
+
+[Data]
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+nxid0001,My_Sample_1,,,N701,TAAGGCGA,S502,ATAGAGAG,My_Project,
+nxid0002,My_Sample_2,,,N702,CGTACTAG,S502,ATAGAGAG,My_Project,
+nxid0003,My_Sample_3,,,N703,AGGCAGAA,S502,ATAGAGAG,My_Project,
+nxid0004,My_Sample_4,,,N704,TCCTGAGC,S502,ATAGAGAG,My_Project,
+nxid0005,My_Sample_5,,,N705,GGACTCCT,S502,ATAGAGAG,My_Project,
+nxid0006,My_Sample_6,,,N706,TAGGCATG,S502,ATAGAGAG,My_Project,
+nxid0007,My_Sample_7,,,N707,CTCTCTAC,S502,ATAGAGAG,My_Project,
+nxid0008,My_Sample_8,,,N708,CAGAGAGG,S502,ATAGAGAG,My_Project,
+nxid0009,My_Sample_9,,,N709,GCTACGCT,S502,ATAGAGAG,My_Project,
+nxid0010,My_Sample_10,,,N710,CGAGGCTG,S502,ATAGAGAG,My_Project,
+nxid0011,My_Sample_11,,,N706,TAGGCATG,S504,TCTACTCT,My_Project,
+nxid0012,My_Sample_12,,,N707,CTCTCTAC,S504,TCTACTCT,My_Project,
+nxid0013,My_Sample_13,,,N708,CAGAGAGG,S504,TCTACTCT,My_Project,
+nxid0014,My_Sample_14,,,N709,GCTACGCT,S504,TCTACTCT,My_Project,
+nxid0015,My_Sample_15,,,N710,CGAGGCTG,S504,TCTACTCT,My_Project,
+nxid0016,My_Sample_16,,,N702,CGTACTAG,S504,TCTACTCT,My_Project,
